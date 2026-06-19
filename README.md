@@ -1,9 +1,11 @@
-## Hi there 👋
+## Thanks for visiting my GitHub Page
+
+Please take a look at the demonstrations for some of my projects below!
+
+
+
 
 <!--
-**G-Mattu/G-Mattu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
