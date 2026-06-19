@@ -1,11 +1,15 @@
-## Hello, thanks for visiting my GitHub Page!
+# Hello, thanks for visiting my GitHub Page!
 
-Please take a look at the demonstrations for some of my projects below:
+Please take a look at the video demonstrations for some of my projects below:
 
+
+## Auctions App
 [![Watch the video](https://img.youtube.com/vi/5zJ1cRa8OGs/0.jpg)](https://youtu.be/5zJ1cRa8OGs)
 
+## GW2 Builds App
 [![Watch the video](https://img.youtube.com/vi/UnuvSmzmWgk/0.jpg)](https://youtu.be/UnuvSmzmWgk)
 
+## Social Network App
 [![Watch the video](https://img.youtube.com/vi/fgUluRkogYg/0.jpg)](https://youtu.be/fgUluRkogYg)
 
 <!--
