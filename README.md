@@ -1,6 +1,6 @@
 # Hello, thanks for visiting my GitHub Page!
 
-Please take a look at the video demonstrations for some of my projects below:
+Please take a look at the video demonstrations for some of my projects below (click on the thumbnails to start the video on youtube):
 
 ## Table of Contents
 * [Auctions App](#auctions-app)
