@@ -6,6 +6,7 @@ Please take a look at the video demonstrations for some of my projects below, or
 * [Auctions App](#auctions-app)
 * [GW2 Builds App](#gw2-builds-app)
 * [Social Network App](#social-network-app)
+* [Skills](#skills)
 
 ## Auctions App
 [![Watch the video](https://img.youtube.com/vi/5zJ1cRa8OGs/0.jpg)](https://youtu.be/5zJ1cRa8OGs)
