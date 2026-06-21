@@ -18,6 +18,9 @@ This app started off as a spreadsheet of builds and quick notes and tips for bui
 
 An app that allows users to sign up to make posts and view posts from other users. By following other users, it is possible to create a custom feed instead of solely the main feed. Async Javascript is used to allow likes/dislikes to be done without a full page reload, and Pagination has been implemented to reduce the amount of server processing to not have to display the full amount of posts in the database. Tools/technologies used: Python, Django, SQL, Javascript, HTML, Bootstrap, and CSS.
 
+## Skills
+Python, Javascript, C, Algorithms, Data Structures, SQL, HTML, CSS, Artificial Intelligence, Flask, Django, Git and Github, UI, Testing, CI/CD, Scalability, Docker, and Cybersecurity
+
 <!--
 
 - 🔭 I’m currently working on ...
