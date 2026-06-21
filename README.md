@@ -1,6 +1,6 @@
 # Hello, thanks for visiting my GitHub Page!
 
-Please take a look at the video demonstrations for some of my projects below:
+Please take a look at the video demonstrations for some of my projects below, or take a look at some of my public repos above:
 
 
 ## Auctions App
